@@ -20,7 +20,7 @@ Aplikasi ini adalah sistem informasi sederhana (Product Manager) yang dirancang 
    - Klik kanan pada file `toko-bangunan.zip` lalu pilih **Extract All...** / **Extract Here**.
    - Pastikan folder hasil ekstraksi diletakkan di dalam direktori `htdocs` XAMPP kamu:
      C:\xampp\htdocs\toko-bangunan\
-   - *Pastikan struktur foldernya adalah `htdocs/toko-bangunan/tampilan/`
+   - *Pastikan struktur foldernya adalah `htdocs/toko-bangunan`
 
 2. **Jalankan Apache & MySQL**
 
